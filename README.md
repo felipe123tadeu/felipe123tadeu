@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=41&pause=1000&background=FF2D2D9F&multiline=true&width=488&height=64&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 ![](./src/header.png)
+
 ## HI, I'm Felip's 🙋
 ![Felip's  GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe123tadeu&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=felipe123tadeu&theme=cobalt&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
@@ -64,4 +65,5 @@
               <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe123tadeu/felipe123tadeu/output/github-contribution-grid-snake.svg">
               <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipe123tadeu/felipe123tadeu/output/github-contribution-grid-snake.svg">
     </picture>
-
+       
+![](./src/header.png)
