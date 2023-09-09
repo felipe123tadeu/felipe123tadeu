@@ -57,5 +57,9 @@
        <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/flash.svg"/>
        <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/zeplin.svg"/>
    <div>
-    
-![snake animation](https://github.com/<felipe123tadeu>/<felipe123tadeu>/blob/output/github-contribution-grid-snake2.svg)
+    <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe123tadeu/felipe123tadeu/output/github-contribution-grid-snake-dark.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe123tadeu/felipe123tadeu/output/github-contribution-grid-snake.svg">
+              <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipe123tadeu/felipe123tadeu/output/github-contribution-grid-snake.svg">
+    </picture>
+
