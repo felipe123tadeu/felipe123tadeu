@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=41&pause=1000&background=FF2D2D9F&multiline=true&width=488&height=64&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 
-![](./src/header.png)
+![](./src/1656763457249.png)
 
 ## HI, I'm Felip's 🙋
 ![Felip's  GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe123tadeu&show_icons=true&theme=gruvbox)
