@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=41&pause=1000&background=FF2D2D9F&multiline=true&width=488&height=64&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 ## HI, I'm Felip's 🙋
-
+## Social network
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piet_ph/?hl=pt-br)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKlBOQoLuOihdXtkPOH0Peg)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipetadeu01/)
