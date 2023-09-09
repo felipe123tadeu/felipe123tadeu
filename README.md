@@ -27,5 +27,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mali&pause=1000&width=435&lines=Learning+is+never+too+much...)](https://git.io/typing-svg)
       
 ## Most used programs
-https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
-
+<div style="display: inline_block"><br/>
+<img align="center"alt="html5"src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black />
+<div>
