@@ -45,4 +45,15 @@
      <img align="center"alt="html5"src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
      <img align="center"alt="html5"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />    
 <div>
-
+    
+   ## 🎨🎨 Designer
+   <div style="display: inline_block">
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/behance.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/photoshop.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/illustrator.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/dreamweaver.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/after_effects.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/premiere.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/flash.svg"/>
+       <img align="center"alt="html5"src= "https://aleen42.github.io/badges/src/zeplin.svg"/>
+   <div>
