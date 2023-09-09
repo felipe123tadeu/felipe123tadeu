@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&weight=300&size=44&pause=1000&multiline=true&width=435&lines=Welcome+to+my+profile.;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
-![welcome-banner](https://github.com/felipe123tadeu/felipe123tadeu/assets/27034922/b8f8940a-d3ca-493c-b878-68724734a3c5)
 
 ### HI, I'm Felip's 🙋
 
