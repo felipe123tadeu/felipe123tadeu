@@ -26,6 +26,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mali&pause=1000&width=435&lines=Learning+is+never+too+much...)](https://git.io/typing-svg)
       
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=felipe123tadeu&theme=radical&hide_border=falso&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
