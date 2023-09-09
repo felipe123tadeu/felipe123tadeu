@@ -3,8 +3,8 @@
 ![](./src/header.png)
 
 ## HI, I'm Felip's 🙋
-![Felip's  GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe123tadeu&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=felipe123tadeu&theme=cobalt&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+![Felip's  GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe123tadeu&show_icons=true&theme=gruvbox)   ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+                                  [![GitHub Streak](https://streak-stats.demolab.com?user=felipe123tadeu&theme=cobalt&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)    
 ## Social network:
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piet_ph/?hl=pt-br)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKlBOQoLuOihdXtkPOH0Peg)
